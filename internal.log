@@ -1,0 +1,9 @@
+﻿  Assembling Hookign\nigga.asm...
+  Assembling Hookign\ret.asm...
+  config.cpp
+  entry.cpp
+  VMTShadow.cpp
+C:\Users\jkrau\Desktop\internal\internal\config.cpp(116,1): error C1010: Unerwartetes Dateiende während der Suche nach dem vorkompilierten Header. Haben Sie möglicherweise vergessen, im Quellcode "#include """ einzufügen?
+C:\Users\jkrau\Desktop\internal\internal\entry.cpp(179,1): error C1010: Unerwartetes Dateiende während der Suche nach dem vorkompilierten Header. Haben Sie möglicherweise vergessen, im Quellcode "#include """ einzufügen?
+  Code wird generiert...
+C:\Users\jkrau\Desktop\internal\internal\VMTShadow.cpp(58,1): error C1010: Unerwartetes Dateiende während der Suche nach dem vorkompilierten Header. Haben Sie möglicherweise vergessen, im Quellcode "#include """ einzufügen?
